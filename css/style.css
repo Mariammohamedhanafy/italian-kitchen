@@ -1,0 +1,16 @@
+.navbar{
+    border: solid 5px #333;
+    opacity: 0.7;
+}
+header{
+    min-height: 100vh;
+    background-color: black;
+    background-image: linear-gradient(rgba(0,0,0,0.7) , rgba(0,0,0,0.7))
+  ,  url(../images/pexels-regina-ferraz-4748540.jpg); 
+    background-position: center;
+    background-size: cover;
+}
+.footer{
+  border: solid 5px #333;
+  font-family: 'Times New Roman', Times, serif;
+}
